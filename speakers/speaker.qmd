@@ -3,7 +3,7 @@ title: "Speakers"
 ---
 
 ::: {layout-nrow="4"}
-![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="300" height="300"}
+![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="300" height="280"}
 
 ![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="300"}
 
@@ -23,7 +23,7 @@ title: "Speakers"
 
 ![Polle Krystle V. Macaranas, RMT](images/P_Macaranas_2x2.jpg){width="300"}
 
-![Daria L. Manalo, DVM, MPH](images/female_icon-02.png){width="300" height="300"}
+![Daria L. Manalo, DVM, MPH](images/female_icon-02.png){width="300" height="280"}
 
 ![Jemelyn U. Garcia, MD](images/Jemelyn U. Garcia, MD.jpg){width="300"}
 :::

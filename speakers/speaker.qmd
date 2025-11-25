@@ -1,0 +1,11 @@
+---
+title: "RITM AMR Network Symposium"
+---
+
+::: {layout-nrow="2"}
+![Niña Natalia L. Bautista, MD](images/female_icon.png){width="273"}
+
+![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){width="300"}
+
+![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.JPG){width="233"}
+:::

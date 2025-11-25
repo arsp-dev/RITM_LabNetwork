@@ -3,17 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "RITM_LabNetwork"
+  title: "RITM AMR Network Symposium"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: agenda.qmd
+        text: Agenda
+      - href: speakers/speaker.qmd
+        text: Speakers
       - about.qmd
+  page-footer:
+    left: "&copy; Copyright 2025, Antimicrobial Resistance Surveillance Reference Laboratory"
 
 format:
   html:
     theme:
-      - cosmo
+      - materia
       - brand
     css: styles.css
     toc: true

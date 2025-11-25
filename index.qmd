@@ -2,11 +2,4 @@
 title: "RITM AMR Network Symposium"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-2 + 2
-```
+![](images/RITM AMR Symposium.gif)

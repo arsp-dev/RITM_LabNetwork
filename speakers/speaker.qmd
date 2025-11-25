@@ -2,7 +2,7 @@
 title: "Speakers"
 ---
 
-::: {layout-nrow="2"}
+::: {layout-nrow="4"}
 ![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="300" height="300"}
 
 ![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="300"}

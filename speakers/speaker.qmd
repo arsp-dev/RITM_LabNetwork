@@ -3,7 +3,7 @@ title: "Speakers"
 ---
 
 ::: {layout-nrow="2"}
-![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="274"}
+![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="300" height="300"}
 
 ![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="300"}
 
@@ -16,4 +16,14 @@ title: "Speakers"
 ![Louis Andrew M. Olazo, RMT, MSMT](images/Louis Andrew M. Olazo, RMT, MSMT.png){width="300"}
 
 ![Ma. Teresita G. Gabriel, MD, FPDS](images/Ma. Teresita G. Gabriel, MD, FPDS.jpg){width="299"}
+
+![June Haidee A. Lariosa](images/female_icon-01.png){width="300" height="300"}
+
+![Roldan E. Bayot](images/Roldan E. Bayot.jpg){width="300"}
+
+![Polle Krystle V. Macaranas, RMT](images/P_Macaranas_2x2.jpg){width="300"}
+
+![Daria L. Manalo, DVM, MPH](images/female_icon-02.png){width="300" height="300"}
+
+![Jemelyn U. Garcia, MD](images/Jemelyn U. Garcia, MD.jpg){width="300"}
 :::

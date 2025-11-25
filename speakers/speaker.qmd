@@ -7,7 +7,7 @@ title: "Speakers"
 
 ![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="300"}
 
-![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.png){width="300"}
+[![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.png){width="300"}](speakers/mr_pamplona.qmd)
 
 ![Desiree D. Argana, MD](images/Desiree D. Argana, MD.jpg){width="300"}
 

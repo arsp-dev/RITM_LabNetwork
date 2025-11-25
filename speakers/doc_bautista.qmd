@@ -1,0 +1,12 @@
+---
+title: "Sonia B. Sia, MD, FPAFP, FPSP, MPM"
+---
+
+::: {layout-ncol="2"}
+![ARSRL Head](images/docsonia_ritm-01.png){width="648"}
+
+-   Sonia is the Head of the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) housed in the Research Institute for Tropical Medicine (RITM).
+-   She works with various AMR stakeholders across the Philippines with significant and outstanding contributions to research for AMR and public health interests. 
+-   Under her leadership, she efficiently oversees a large network of public healthcare facilities nationwide encompassing 26 sentinel sites working together to study the prevailing status of antibiotic resistance.
+-   She serves as principal investigator on various laboratory operational management and AMR studies and projects.
+:::

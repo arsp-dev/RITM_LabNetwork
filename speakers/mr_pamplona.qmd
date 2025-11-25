@@ -1,0 +1,11 @@
+---
+title: "Marlon Pius G. Pamplona, RMT"
+---
+
+::: {layout-ncol="2"}
+![](images/Marlon Pius G. Pamplona, RMT.png){width="450"}
+
+-   A genomics specialist at the National Reference Laboratory for Influenza and Other Respiratory Viruses in the Department of Virology of Research Institute for Tropical Medicine. As the pioneer staff of the Influenza Genomics Team, he has been involved in building the NRL’s influenza genomic surveillance program from the ground up, optimizing sequencing protocols, testing bioinformatic workflows, automating data analysis, and establishing reporting standards.
+-   He gained his foundational skills in data science through the PROJECT SPARTA scholarship of the Development Academy of the Philippines, and further strengthened his genomics expertise through a bioinformatics internship at the Philippine Genome Center. Marlon has also completed several WHO-supported trainings in viral genomics and genomic epidemiology, which broadened his capacity to support national surveillance efforts.
+-   He provides technical assistance and capacity-building support in molecular techniques to sentinel sites and other National Reference Laboratories of the Department of Virology, and mentors colleagues in bioinformatics and data analysis. Marlon is currently pursuing a Graduate Diploma in Computer Science at the University of the Philippines Open University.
+:::

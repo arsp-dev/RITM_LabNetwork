@@ -2,10 +2,18 @@
 title: "RITM AMR Network Symposium"
 ---
 
-::: {layout-nrow="3"}
-![Niña Natalia L. Bautista, MD](images/female_icon.png){width="182"}
+::: {layout-nrow="2"}
+![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="228"}
 
-![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){width="200"}
+![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="250"}
 
-![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.JPG){width="155"}
+![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.JPG){width="250" height="250"}
+
+![Desiree D. Argana, MD](images/Desiree D. Argana, MD.jpg){width="250"}
+
+![Holly Grace O. Espiritu, RMT](images/H_Espiritu_2x2.jpg){width="250"}
+
+![Louis Andrew M. Olazo, RMT, MSMT](images/Louis Andrew M. Olazo, RMT, MSMT.png){width="250"}
+
+![Ma. Teresita G. Gabriel, MD, FPDS](images/Ma. Teresita G. Gabriel, MD, FPDS.jpg){width="250"}
 :::

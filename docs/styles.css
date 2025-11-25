@@ -2,3 +2,15 @@
 figcaption {
   text-align: center;
 }
+
+ul li {
+  text-align: justify;
+  font-size: 0.8em;
+  justify-content: space-between;
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+  list-style: none; /* Removes default bullet points */
+  width: 100%; /* Ensure the ul takes up the full width *
+  
+  
+}

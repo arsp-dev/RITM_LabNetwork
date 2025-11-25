@@ -1,0 +1,13 @@
+---
+title: "Desiree D. Argana, MD"
+---
+
+::: {layout-ncol="2"}
+![](images/Desiree D. Argana, MD.jpg)
+
+-   A Pediatric Infectious Disease Specialist currently serving as a Medical Specialist III at the Research Institute for Tropical Medicine (RITM). Within the institute, she holds a pivotal leadership role as the Deputy Head and Quality Circle Head of the Department of Microbiology.
+
+-   She established her medical foundation at the University of Santo Tomas, where she completed both her Bachelor of Science in Medical Technology and her Doctor of Medicine degree. She went on to pursue her residency training in Pediatrics at Manila Doctors Hospital and completed her subspecialty fellowship training in Pediatric Infectious Disease at the University of the Philippines – Philippine General Hospital (UP-PGH).
+
+-   Dr. Argana is a Diplomate of both the Philippine Pediatric Society (PPS) and the Pediatric Infectious Disease Society of the Philippines (PIDSP). She is actively engaged in organizational service at PIDSP, where she serves as a member of the EREID, Socials, Multimedia, and Quiz Bee Committees.
+:::

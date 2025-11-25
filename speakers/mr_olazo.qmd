@@ -1,0 +1,11 @@
+---
+title: "Louis Andrew M. Olazo, RMT, MSMT"
+---
+
+::: {layout-ncol="2"}
+![](images/Louis Andrew M. Olazo, RMT, MSMT.png)
+
+-   Currently serves as the Section Head of the Learning and Development Section of the National Tuberculosis Reference Laboratory (NTRL). He leads the delivery of diagnostic training programs that strengthen the technical capacity of the country’s TB laboratory network. He serves as a trainer and facilitator in various TB diagnostics courses, participating in both national and international training activities that cover microscopy, rapid molecular diagnostics, culture, drug susceptibility testing, and related methods. 
+
+-   As Section Head, Mr. Olazo oversees the development, conduct, and evaluation of TB diagnostics training courses to ensure that laboratories of the national TB laboratory network receive consistent and program-aligned learning support. He works closely with the Department of Health Centers for Health Development and other stakeholders to assess training needs, prioritize requests, and implement both NTRL-initiated and region-supported activities. He also leads his team in maintaining a roster of qualified regional trainers who conduct decentralized trainings to ensure that learning and development interventions can be delivered efficiently across the different regions of the country.
+:::

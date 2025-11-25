@@ -1,0 +1,15 @@
+---
+title: "Ma. Teresita G. Gabriel, MD, FPDS"
+---
+
+::: {layout-ncol="2"}
+[![](images/Ma. Teresita G. Gabriel, MD, FPDS.jpg)](doc_gabriel.qmd)
+
+-   A distinguished leader in Philippine dermatology with extensive administrative, clinical, and academic experience. She currently serves as the Head of the Leprosy Section at the Department of Dermatology, Research Institute for Tropical Medicine (RITM), where she previously held the position of Department Chairman from 2011 to 2022.
+
+-   Dr. Gabriel holds key leadership roles across several major institutions. She is the Academics Cluster Head and Active Consultant at Asian Hospital Medical Center, and the Section Head of Dermatology at both San Juan de Dios Hospital and Ospital ng Parañaque. Additionally, she ensures the ethical conduct of research as the Vice-Chair of the Institutional Review Board at San Juan de Dios Hospital.
+
+-   A recognized pillar in her field, Dr. Gabriel is a Past President of the Philippine Dermatological Society (2011-2012) and the Rizal-Parañaque Medical Society (2003-2005). She continues to influence the subspecialty as an Honorary Adviser for the PDS Leprosy Subspecialty Core Group.
+
+-   Beyond her clinical practice, Dr. Gabriel is a prolific scholar. She has contributed significantly to medical literature through numerous publications in local and international journals and has co-authored various book chapters in dermatology.
+:::

@@ -1,19 +1,19 @@
 ---
-title: "RITM AMR Network Symposium"
+title: "Speakers"
 ---
 
 ::: {layout-nrow="2"}
-![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="228"}
+![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="274"}
 
-![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="250"}
+![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="300"}
 
-![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.JPG){width="250" height="250"}
+![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.JPG){width="300" height="300"}
 
-![Desiree D. Argana, MD](images/Desiree D. Argana, MD.jpg){width="250"}
+![Desiree D. Argana, MD](images/Desiree D. Argana, MD.jpg){width="300"}
 
-![Holly Grace O. Espiritu, RMT](images/H_Espiritu_2x2.jpg){width="250"}
+![Holly Grace O. Espiritu, RMT](images/H_Espiritu_2x2.jpg){width="300"}
 
-![Louis Andrew M. Olazo, RMT, MSMT](images/Louis Andrew M. Olazo, RMT, MSMT.png){width="250"}
+![Louis Andrew M. Olazo, RMT, MSMT](images/Louis Andrew M. Olazo, RMT, MSMT.png){width="300"}
 
-![Ma. Teresita G. Gabriel, MD, FPDS](images/Ma. Teresita G. Gabriel, MD, FPDS.jpg){width="250"}
+![Ma. Teresita G. Gabriel, MD, FPDS](images/Ma. Teresita G. Gabriel, MD, FPDS.jpg){width="299"}
 :::

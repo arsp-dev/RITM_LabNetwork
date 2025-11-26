@@ -1,0 +1,13 @@
+---
+title: "Jemelyn U. Garcia, MD"
+---
+
+::: {layout-ncol="2"}
+![](images/Jemelyn%20U.%20Garcia,%20MD-01.jpg)
+
+-   Dr. Jemelyn U. Garcia is a Medical Specialist III at the Research Institute for Tropical Medicine. She is an infectious disease specialist and the Overall Training Officer and Chair of the Antimicrobial Stewardship Committee of the Research Institute for Tropical Medicine.
+
+-   She is also the Antimicrobial Stewardship Committee Chair of the Asian Hospital and Medical Center. She is a diplomate and fellow of the Philippine College of Physicians and of the Philippine Society for Microbiology and Infectious Diseases.
+
+-   She was a member of several technical working groups for clinical practice guidelines for Tuberculosis, COVID-19, Infection Control and Screening for Infectious Diseases.
+:::

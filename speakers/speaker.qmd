@@ -3,7 +3,7 @@ title: "Speal"
 ---
 
 ::: {layout-nrow="4"}
-![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="300" height="250"}
+[![Niña Natalia L. Bautista, MD](images/Niña Natalia L. Bautista, MD.png){fig-align="left" width="300"}](doc_bautista.qmd)
 
 ![Mark Kristoffer U. Pasayan, MD](images/Mark%20Kristoffer%20U.%20Pasayan,%20MD.png){fig-align="left" width="300"}
 
@@ -25,5 +25,5 @@ title: "Speal"
 
 [![Daria L. Manalo, DVM, MPH](images/Daria L. Manalo, DVM, MPH.png){width="300"}](doc_manalo.qmd)
 
-![Jemelyn U. Garcia, MD](images/Jemelyn%20U.%20Garcia,%20MD.jpg){width="300"}
+[![Jemelyn U. Garcia, MD](images/Jemelyn%20U.%20Garcia,%20MD.jpg){width="300"}](doc_garcia.qmd)
 :::

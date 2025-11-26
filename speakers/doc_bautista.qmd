@@ -1,0 +1,11 @@
+---
+title: "Niña Natalia L. Bautista, MD"
+---
+
+::: {layout-ncol="2"}
+![](images/Niña Natalia L. Bautista, MD-01.png)
+
+-   An Anatomic and Clinical pathologist who currently serves as Medical Specialist II at the Research Institute for Tropical Medicine under the Advanced Molecular Technologies Laboratory and a Medical Specialist III and Head of the Microbiology Section at the Philippine Children’s Medical Center. 
+
+-   Dr. Bautista completed her postgraduate diploma in Molecular and Diagnostic Pathology at The University of Hong Kong and earned her Doctor of Medicine degree from Saint Louis University, with a bachelor’s degree in Biology major in Genetics from the University of the Philippines Los Baños. Her special interests include molecular diagnostics, clinical microbiology, digital pathology, and translational medicine, with active involvement in infectious disease diagnostics, including HIV.
+:::

@@ -5,25 +5,25 @@ title: "Speal"
 ::: {layout-nrow="4"}
 ![Niña Natalia L. Bautista, MD](images/female_icon.png){fig-align="left" width="300" height="250"}
 
-![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD.png){fig-align="left" width="300"}
+![Mark Kristoffer U. Pasayan, MD](images/Mark%20Kristoffer%20U.%20Pasayan,%20MD.png){fig-align="left" width="300"}
 
-[![Marlon Pius G. Pamplona, RMT](images/Marlon Pius G. Pamplona, RMT.png){width="300"}](mr_pamplona.qmd)
+[![Marlon Pius G. Pamplona, RMT](images/Marlon%20Pius%20G.%20Pamplona,%20RMT.png){width="300"}](mr_pamplona.qmd)
 
-[![Desiree D. Argana, MD](images/Desiree D. Argana, MD.jpg){width="300"}](doc_argana.qmd)
+[![Desiree D. Argana, MD](images/Desiree%20D.%20Argana,%20MD.jpg){width="300"}](doc_argana.qmd)
 
 ![Holly Grace O. Espiritu, RMT](images/H_Espiritu_2x2.jpg){width="300"}
 
-[![Louis Andrew M. Olazo, RMT, MSMT](images/Louis Andrew M. Olazo, RMT, MSMT.png){width="300"}](mr_olazo.qmd)
+[![Louis Andrew M. Olazo, RMT, MSMT](images/Louis%20Andrew%20M.%20Olazo,%20RMT,%20MSMT.png){width="300"}](mr_olazo.qmd)
 
-[![Ma. Teresita G. Gabriel, MD, FPDS](images/Ma. Teresita G. Gabriel, MD, FPDS.jpg){width="299"}](doc_gabriel.qmd)
+[![Ma. Teresita G. Gabriel, MD, FPDS](images/Ma.%20Teresita%20G.%20Gabriel,%20MD,%20FPDS.jpg){width="299"}](doc_gabriel.qmd)
 
 ![June Haidee A. Lariosa](images/female_icon-01.png){width="300" height="250"}
 
-[![Roldan E. Bayot](images/Roldan E. Bayot.jpg){width="300"}](mr_bayot.qmd)
+[![Roldan E. Bayot](images/Roldan%20E.%20Bayot.jpg){width="300"}](mr_bayot.qmd)
 
 ![Polle Krystle V. Macaranas, RMT](images/P_Macaranas_2x2.jpg){width="300"}
 
-![Daria L. Manalo, DVM, MPH](images/female_icon-02.png){width="300" height="250"}
+[![Daria L. Manalo, DVM, MPH](images/Daria L. Manalo, DVM, MPH.png){width="300"}](doc_manalo.qmd)
 
-![Jemelyn U. Garcia, MD](images/Jemelyn U. Garcia, MD.jpg){width="300"}
+![Jemelyn U. Garcia, MD](images/Jemelyn%20U.%20Garcia,%20MD.jpg){width="300"}
 :::

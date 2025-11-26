@@ -3,7 +3,7 @@ title: "Ma. Teresita G. Gabriel, MD, FPDS"
 ---
 
 ::: {layout-ncol="2"}
-[![](images/Ma. Teresita G. Gabriel, MD, FPDS.jpg)](doc_gabriel.qmd)
+![](images/Ma.%20Teresita%20G.%20Gabriel,%20MD,%20FPDS.jpg)
 
 -   A distinguished leader in Philippine dermatology with extensive administrative, clinical, and academic experience. She currently serves as the Head of the Leprosy Section at the Department of Dermatology, Research Institute for Tropical Medicine (RITM), where she previously held the position of Department Chairman from 2011 to 2022.
 

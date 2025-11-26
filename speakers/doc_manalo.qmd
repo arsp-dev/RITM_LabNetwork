@@ -1,0 +1,13 @@
+---
+title: "Daria L. Manalo, DVM, MPH"
+---
+
+::: {layout-ncol="2"}
+![](images/Daria L. Manalo, DVM, MPH.png){width="900"}
+
+-   The Chief Science Research Specialist of the Veterinary Research Department (VRD) of the Research Institute for Tropical Medicine (RITM), Department of Health. She is a graduate of Veterinary Medicine at the University of the Philippines, Los Banos, and earned her master’s degree in public health at the Hebrew University, Jerusalem, Israel.
+
+-   She is the head of the RITM rabies reference laboratory. She has done several research studies on rabies and animal schistosomiasis and has published papers in these fields. Currently, she is a member of the National Rabies Prevention and Control Committee. Dr. Manalo is the Chairman of the RITM Animal Care and Use Committee (IACUC). She conducted several training courses on rabies and the ethical use of laboratory animals in research.
+
+-   She is a fellow of the Philippine College of Veterinary Public Health (PCVPH) and a diplomate of the Philippine College of Laboratory Animal Medicine (PCLAM). She is also a  member of the Philippines Association of Laboratory Animal Science (PALAS).
+:::

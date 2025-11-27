@@ -9,7 +9,7 @@ title: "Speakers"
 
 [![Pamela T. Tan, MD](images/Pamela T. Tan, MD.png){width="300"}](doc_pam.qmd)
 
-![Amado O. Tandoc III, MD, FPSP](images/Amado O. Tandoc III, MD, FPSP.png){width="300"}
+[![Amado O. Tandoc III, MD, FPSP](images/Amado O. Tandoc III, MD, FPSP.png){width="300"}](doc_mads.qmd)
 :::
 
 ::: {layout-nrow="4"}

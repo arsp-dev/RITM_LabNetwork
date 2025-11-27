@@ -3,11 +3,11 @@ title: "Speakers"
 ---
 
 ::: {layout-nrow="2"}
-![Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA](images/Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA-01.png){width="300"}
+[![Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA](images/Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA-01.png){width="300"}](doc_duran.qmd)
 
-![Lester M. Tan, MD, MPH, MSc](images/Lester M. Tan, MD, MPH, MSc.png){width="300"}
+[![Lester M. Tan, MD, MPH, MSc](images/Lester M. Tan, MD, MPH, MSc.png){width="300"}](doc_tan.qmd)
 
-![Pamela T. Tan, MD](images/Pamela T. Tan, MD.png){width="300"}
+[![Pamela T. Tan, MD](images/Pamela T. Tan, MD.png){width="300"}](doc_pam.qmd)
 
 ![Amado O. Tandoc III, MD, FPSP](images/Amado O. Tandoc III, MD, FPSP.png){width="300"}
 :::

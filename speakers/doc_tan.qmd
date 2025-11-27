@@ -1,0 +1,13 @@
+---
+title: "Lester M. Tan, MD, MPH, MSc"
+---
+
+::: {layout-ncol="2"}
+![](images/Lester%20M.%20Tan,%20MD,%20MPH,%20MSc.png){width="629"}
+
+-   Dr. Lester M. Tan is currently the Director IV of the Department of Health - Metro Manila Center for Health Development (DOH-MMCHD), which is the regional office of the DOH in the National Capital Region (NCR). The Office is in charge of regulating health facilities, providing assistance and coordinating with the 17 Local Government Units as well as the private sector in NCR. 
+
+-   Before his transfer to DOH-MMCHD in February 2025, he served as the Director IV of the DOH Health Policy Development and Planning Bureau (HPDPB) as well as the DOH Bureau of Local Health Systems Development (BLHSD) wherein he supervised the development of national plans, policies and guidelines on the implementation of the Universal Health Care Law. Before being appointed as Director, he was a Division Chief at the BLHSD, as well as at the HPDPB. Prior to that, he was the Monitoring and Evaluation Program Manager for the Programmatic Management of Drug-Resistant Tuberculosis at the Tropical Disease Foundation, Inc, supported by the Global Fund to fight AIDS, TB and Malaria. 
+
+-   He took his Bachelor’s Degree in Chemistry at the University of the Philippines Diliman, Doctor of Medicine from the University of the East Ramon Magsaysay Memorial Medical Center and has a Master’s Degree in Public Health from the University of the Philippines Manila, and a Master of Science in Global Health and Development (Health Policy) from Hanyang University in Seoul, South Korea.
+:::

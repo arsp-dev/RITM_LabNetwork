@@ -1,0 +1,9 @@
+---
+title: "Pamela T. Tan, MD"
+---
+
+::: {layout-ncol="2"}
+![](images/Amado O. Tandoc III, MD, FPSP.png){width="651"}
+
+-   input text
+:::

@@ -1,0 +1,13 @@
+---
+title: "Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA"
+---
+
+::: {layout-ncol="2"}
+![](images/Atty.%20Ana%20Liza%20H.%20Duran,%20MD,%20FPPS,%20MMHoA,%20MMPHA.png){width="574"}
+
+-   Dr. Ana Liza Hombrado Duran is currently the Director IV of the Research Institute for Tropical Medicine (RITM), where she oversees the Clinical, Laboratory, Biologicals Manufacturing, Administrative, and Finance Divisions. A doctor and lawyer with Master's degrees in both Management (Major in Hospital Administration) and Public Health.
+
+-   Dr. Duran brings a diverse skill set to her leadership role. She is a highly experienced professional who rose through the ranks as a practicing pediatrician to Department Chair at East Avenue Medical Center. Her past roles also include National TB Program Coordinator for Pediatrics and Chair of the Research Ethics Boards at both East Avenue Medical Center and the National Children's Hospital. Her specific research focus is on tuberculosis in children. 
+
+-   Prior to her current position, she was the RITM focal point for Chemical, Biological, Radiological, and Nuclear (CBRN) Activities, and concurrently served as Director III and Officer-in-Charge of the Biologicals Manufacturing Division. She is an active supporter of various researches on infectious and tropical diseases in RITM.
+:::

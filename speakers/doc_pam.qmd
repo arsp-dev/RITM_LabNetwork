@@ -1,0 +1,13 @@
+---
+title: "Pamela T. Tan, MD"
+---
+
+::: {layout-ncol="2"}
+![](images/Pamela%20T.%20Tan,%20MD.png){width="596"}
+
+-   Dr. Pamela T. Tan is a dedicated Pediatric Infectious Disease Specialist. She completed her Bachelor of Science in Pharmacy and Doctor of Medicine degrees at the University of Santo Tomas (UST). Following this, she underwent her Pediatric Residency training at the UST Hospital. She further specialized by completing her Pediatric Infectious Disease Fellowship training at the University of the Philippines-Philippine General Hospital (UP-PGH).
+
+-   She is a respected Diplomate of the Philippine Pediatric Society (PPS) and the Pediatric Infectious Disease Society of the Philippines (PIDSP), where she actively contributes as a member of the AMR Committee.
+
+-   Currently, she serves as a Medical Specialist II and Deputy Head of the Antimicrobial Resistance Surveillance Reference Laboratory at the Research Institute for Tropical Medicine (RITM).
+:::

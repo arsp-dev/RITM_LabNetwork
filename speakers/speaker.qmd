@@ -2,6 +2,14 @@
 title: "Speakers"
 ---
 
+::: {layout-nrow="3"}
+![Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA](images/Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA-01.png)
+
+![Lester M. Tan, MD, MPH, MSc](images/Lester M. Tan, MD, MPH, MSc.png)
+
+![Pamela T. Tan, MD](images/Pamela T. Tan, MD.png)
+:::
+
 ::: {layout-nrow="4"}
 [![Niña Natalia L. Bautista, MD](images/Niña%20Natalia%20L.%20Bautista,%20MD.png){fig-align="left" width="300"}](doc_bautista.qmd)
 

@@ -1,0 +1,11 @@
+---
+title: "Mark Kristoffer U. Pasayan, MD"
+---
+
+::: {layout-ncol="2"}
+![](images/Mark Kristoffer U. Pasayan, MD-01.png)
+
+-   Dr. Pasayan, an internal medicine-infectious disease specialist at the Department of Health Research Institute for Tropical Medicine (RITM), leads the AIDS Research Group-HIV Clinic. He obtained his medical degree from the University of the Philippines College of Medicine and completed residency training in internal medicine at The Medical City and fellowship training in infectious diseases at RITM. 
+
+-   He is a fellow of the Philippine College of Physicians and a fellow and board member of the Philippine Society for Microbiology and Infectious Diseases. He is a co-primary investigator at TREAT Asia. His publications include articles in the Journal of Acquired Immune Deficiency Syndromes, the Journal of the International AIDS Society, and The Lancet HIV.
+:::

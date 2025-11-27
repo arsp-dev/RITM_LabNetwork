@@ -9,10 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - href: agenda.qmd
-        text: Agenda
+        text: Programme
       - href: speakers/speaker.qmd
         text: Speakers
-      - about.qmd
   page-footer:
     left: "&copy; Copyright 2025, Antimicrobial Resistance Surveillance Reference Laboratory"
 

@@ -1,0 +1,13 @@
+---
+title: "June Haidee A. Lariosa"
+---
+
+::: {layout-ncol="2"}
+![](images/June Haidee A. Lariosa-01.png)
+
+-   A Senior Science Research Specialist at the Department of Parasitology, Research Institute for Tropical Medicine (RITM). As part of the National Reference Laboratory, she leverages over 10 years of experience in molecular biology to lead assay development, staff training, and quality assurance. Her expertise was honed through specialized training at Smith College and the Korea CDC.
+
+-   Ms. Lariosa has secured competitive funding from WHO-WPRO/TDR and RITM to drive critical research in malaria genomics and soil-transmitted helminths (STH). She is a pivotal figure in the National Malaria Therapeutic Efficacy Studies (TES) and its transition into the Integrated Drug Efficacy Surveillance (iDES) initiative. Currently piloted in Rizal and Palawan, iDES embeds efficacy monitoring into routine surveillance to enable earlier detection of treatment failures.
+
+-   Furthermore, she co-leads the Philippines’ participation in the UKRI-funded DREAM-SEA project, a multi-country initiative investigating anthelmintic resistance. Through her work in genomic surveillance and AMR research, Ms. Lariosa continues to advance evidence-based strategies for national parasite control and elimination.
+:::

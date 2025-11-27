@@ -1,0 +1,13 @@
+---
+title: "Holly Grace Espiritu, RMT"
+---
+
+::: {layout-ncol="2"}
+![](images/H_Espiritu_2x2.jpg)
+
+-   A licensed Medical Technologist and currently serves as a Senior Science Research Specialist at the Research Institute for Tropical Medicine- Antimicrobial Resistance Surveillance Reference Laboratory.
+
+-   She has over a decade of experience in bacteriology, national antimicrobial resistance laboratory surveillance. She also takes on the role of training officer for the Benchwork Training Course on Antimicrobial Susceptibility Testing and resistance mechanism detection, where she contributes significantly to enhancing AMR diagnostic competencies across the country.
+
+-   She contributes to the implementation of the ARSP External Quality Assurance Program and participates in nationwide inspections of both government and private bacteriology laboratories to ensure their adherence to accreditation standards.
+:::

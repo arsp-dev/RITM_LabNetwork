@@ -3,7 +3,7 @@ title: "Amado O. Tandoc III, MD, FPSP"
 ---
 
 ::: {layout-ncol="2"}
-![](images/Amado O. Tandoc III, MD, FPSP.png){width="651"}
+![](images/Amado%20O.%20Tandoc%20III,%20MD,%20FPSP.png){width="651"}
 
 -   input text
 :::

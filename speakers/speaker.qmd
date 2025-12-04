@@ -3,19 +3,19 @@ title: "Speakers"
 ---
 
 ::: {layout-nrow="2"}
-[![Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA](images/Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA-01.png){width="300"}](doc_duran.qmd)
+[![Atty. Ana Liza H. Duran, MD, FPPS, MMHoA, MMPHA](images/Atty.%20Ana%20Liza%20H.%20Duran,%20MD,%20FPPS,%20MMHoA,%20MMPHA-01.png){width="300"}](doc_duran.qmd)
 
-[![Lester M. Tan, MD, MPH, MSc](images/Lester M. Tan, MD, MPH, MSc.png){width="300"}](doc_tan.qmd)
+[![Lester M. Tan, MD, MPH, MSc](images/Lester%20M.%20Tan,%20MD,%20MPH,%20MSc.png){width="300"}](doc_tan.qmd)
 
-[![Pamela T. Tan, MD](images/Pamela T. Tan, MD.png){width="300"}](doc_pam.qmd)
+[![Pamela T. Tan, MD](images/Pamela%20T.%20Tan,%20MD.png){width="300"}](doc_pam.qmd)
 
-[![Amado O. Tandoc III, MD, FPSP](images/Amado O. Tandoc III, MD, FPSP.png){width="300"}](doc_mads.qmd)
+[![Amado O. Tandoc III, MD, FPSP](images/Amado%20O.%20Tandoc%20III,%20MD,%20FPSP.png){width="300"}](doc_mads.qmd)
 :::
 
 ::: {layout-nrow="4"}
 [![Niña Natalia L. Bautista, MD](images/Niña%20Natalia%20L.%20Bautista,%20MD.png){fig-align="left" width="300"}](doc_bautista.qmd)
 
-[![Mark Kristoffer U. Pasayan, MD](images/Mark Kristoffer U. Pasayan, MD-01.png){fig-align="left" width="300"}](doc_pasayan.qmd)
+[![Mark Kristoffer U. Pasayan, MD](images/Mark%20Kristoffer%20U.%20Pasayan,%20MD-01.png){fig-align="left" width="300"}](doc_pasayan.qmd)
 
 [![Marlon Pius G. Pamplona, RMT](images/Marlon%20Pius%20G.%20Pamplona,%20RMT.png){width="300"}](mr_pamplona.qmd)
 
@@ -27,11 +27,11 @@ title: "Speakers"
 
 [![Ma. Teresita G. Gabriel, MD, FPDS](images/Ma.%20Teresita%20G.%20Gabriel,%20MD,%20FPDS.jpg){width="299"}](doc_gabriel.qmd)
 
-[![June Haidee A. Lariosa](images/June Haidee A. Lariosa.png){width="300"}](ms_lariosa.qmd)
+[![June Haidee A. Lariosa](images/June%20Haidee%20A.%20Lariosa.png){width="300"}](ms_lariosa.qmd)
 
 [![Roldan E. Bayot](images/Roldan%20E.%20Bayot.jpg){width="300"}](mr_bayot.qmd)
 
-[![Polle Krystle V. Macaranas, RMT](images/Polle Krystle V. Macaranas, RMT.png){width="300"}](ms_macaranas.qmd)
+[![Polle Krystle V. Macaranas, RMT](images/Polle%20Krystle%20V.%20Macaranas,%20RMT.png){width="300"}](ms_macaranas.qmd)
 
 [![Daria L. Manalo, DVM, MPH](images/Daria%20L.%20Manalo,%20DVM,%20MPH.png){width="300"}](doc_manalo.qmd)
 
